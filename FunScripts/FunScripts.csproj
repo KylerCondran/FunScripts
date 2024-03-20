@@ -36,6 +36,7 @@
     <Content Include="BSOD.vbs" />
     <Content Include="Caesar Cipher.vbs" />
     <Content Include="DriveInformation.vbs" />
+    <Content Include="EmailRaider.vbs" />
     <Content Include="Metamorphic Code.vbs" />
     <Content Include="Pi-10000-Digits.vbs" />
     <Content Include="VBSObfuscator.vbs" />
