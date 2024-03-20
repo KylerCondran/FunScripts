@@ -33,6 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Content Include="BSOD.vbs" />
     <Content Include="Caesar Cipher.vbs" />
     <Content Include="DriveInformation.vbs" />
     <Content Include="Metamorphic Code.vbs" />
