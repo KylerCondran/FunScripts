@@ -45,6 +45,7 @@
   <ItemGroup>
     <None Include="Certkrypt.De.ps1" />
     <None Include="Certkrypt.En.ps1" />
+    <None Include="Domain Generation Algorithm.ps1" />
     <None Include="FingerPrinter.ps1" />
     <None Include="LogArchiver.bat" />
     <None Include="PingScanner.bat" />
