@@ -47,6 +47,7 @@
     <None Include="Certkrypt.En.ps1" />
     <None Include="FingerPrinter.ps1" />
     <None Include="LogArchiver.bat" />
+    <None Include="PingScanner.bat" />
     <None Include="Zelda.ps1" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
