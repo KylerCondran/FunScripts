@@ -50,6 +50,7 @@
     <None Include="FingerPrinter.ps1" />
     <None Include="LogArchiver.bat" />
     <None Include="PingScanner.bat" />
+    <None Include="PowerShellCommandEncoder.ps1" />
     <None Include="PowerShellToExe.ps1" />
     <None Include="Zelda.ps1" />
   </ItemGroup>
