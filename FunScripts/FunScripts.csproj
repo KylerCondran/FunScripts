@@ -37,6 +37,7 @@
     <Content Include="Caesar Cipher.vbs" />
     <Content Include="DriveInformation.vbs" />
     <Content Include="EmailRaider.vbs" />
+    <Content Include="ListDeDuper.vbs" />
     <Content Include="Metamorphic Code.vbs" />
     <Content Include="Pi-10000-Digits.vbs" />
     <Content Include="URLFileDownloader.vbs" />
@@ -45,6 +46,7 @@
     <Content Include="YellowPagesScraper.vbs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Beep.ps1" />
     <None Include="Certkrypt.De.ps1" />
     <None Include="Certkrypt.En.ps1" />
     <None Include="Domain Generation Algorithm.ps1" />
