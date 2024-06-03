@@ -39,6 +39,7 @@
     <Content Include="EmailRaider.vbs" />
     <Content Include="ListDeDuper.vbs" />
     <Content Include="Metamorphic Code.vbs" />
+    <Content Include="NetworkDriveBruteForcer.vbs" />
     <Content Include="Pi-10000-Digits.vbs" />
     <Content Include="URLFileDownloader.vbs" />
     <Content Include="VBSObfuscator.vbs" />
