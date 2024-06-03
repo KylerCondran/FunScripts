@@ -3,7 +3,7 @@ $cert = get-item -path cert:\currentuser\my\000000000000000000000000000000000000
 #$password = ""
 $type = [System.Security.Cryptography.X509Certificates.X509ContentType]::Cert
 $bytes = $cert.Export($type)
-[System.IO.File]::WriteAllBytes("FileName.cer", $bytes)
+[System.IO.File]::WriteAllBytes("C:\FilePath\FileName.cer", $bytes)
 #$error | Out-File "C:\FilePath\Errors.txt"
 write-host "Done."
 start-sleep 120
