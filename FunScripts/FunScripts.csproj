@@ -59,6 +59,7 @@
     <None Include="PingScanner.bat" />
     <None Include="PowerShellCommandEncoder.ps1" />
     <None Include="PowerShellToExe.ps1" />
+    <None Include="ProgrammaticTor.ps1" />
     <None Include="Zelda.ps1" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
