@@ -1,3 +1,4 @@
+'This script removes duplicates from a text file
 Set objFSO = CreateObject("Scripting.FileSystemObject")
 Set objFile = objFSO.OpenTextFile("C:\FilePath\List.txt", 1)
 Dim U()

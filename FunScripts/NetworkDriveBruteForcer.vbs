@@ -1,3 +1,4 @@
+'This script brute forces connections to other computers in a workgroup
 On Error Resume Next
 Dim U(123)
 Dim D(4)

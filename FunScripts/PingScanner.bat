@@ -1,4 +1,5 @@
 @echo off
+REM This script is a ping scanner
 set ip1=192
 set ip2=168
 set ip3=1

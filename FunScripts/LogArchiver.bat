@@ -1,4 +1,5 @@
 @ECHO OFF
+REM This script archives log files
 REM Program: Log Archiver - Date: 01/17/2013 
 REM Author: Kyler Condran
 

@@ -1,3 +1,4 @@
+#This script retrieves a certificate from the certificate store by issuer
 $validCerts = @(
     Get-ChildItem -Path Cert:\CurrentUser\My |
     Where-Object {

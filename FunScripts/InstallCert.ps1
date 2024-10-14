@@ -1,3 +1,4 @@
+#This script installs a certificate from a path
 $pfxpath = "C:\FilePath\FileName.cer"
 $password = ""
 Add-Type -AssemblyName System.Security

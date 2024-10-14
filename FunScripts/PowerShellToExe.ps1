@@ -1,3 +1,4 @@
+#This script deploys a hardcoded executable and runs it
 #exe in hex
 $hex = ""
 $hex = for($i=0; $i -lt $hex.length; $i+=2)

@@ -1,3 +1,4 @@
+#This script downloads a file from a website using tor and a socks proxy
 #$ErrorActionPreference = 'SilentlyContinue'
 $ToolsPath = split-path -parent $MyInvocation.MyCommand.Definition
 $ErrorPath = Join-Path $ToolsPath 'Errors.txt'

