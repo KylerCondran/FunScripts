@@ -1,4 +1,4 @@
-#This script encodes a powershell command and runs it
+#This script encodes a PowerShell command and saves to a PowerShell script
 $command = 'write-host "LOL"'
 $bytes = [System.Text.Encoding]::Unicode.GetBytes($command)
 $scriptStart = "powershell.exe -encodedCommand " 
