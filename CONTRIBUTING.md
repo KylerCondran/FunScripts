@@ -6,6 +6,6 @@
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new pull request (PR)
 
-# TODO
+# To Do
 
 - [ ] Add More Fun Scripts
