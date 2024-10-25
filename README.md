@@ -46,6 +46,7 @@ git clone https://github.com/KylerCondran/FunScripts.git
 | <a href="https://github.com/KylerCondran/FunScripts/blob/master/FunScripts/PowerShellCommandEncoder.ps1">PowerShellCommandEncoder.ps1</a>    | ✔       | Encode Powershell Commands  |
 | <a href="https://github.com/KylerCondran/FunScripts/blob/master/FunScripts/PowerShellToExe.ps1">PowerShellToExe.ps1</a>             | ✔       | Deploy Executables          |
 | <a href="https://github.com/KylerCondran/FunScripts/blob/master/FunScripts/ProgrammaticTor.ps1">ProgrammaticTor.ps1</a>             | ✔       | Use Tor To Download Files   |
+| <a href="https://github.com/KylerCondran/FunScripts/blob/master/FunScripts/RightToLeft.vbs">RightToLeft.vbs</a>             | ✔       | Right-To-Left Override   |
 | <a href="https://github.com/KylerCondran/FunScripts/blob/master/FunScripts/URLFileDownloader.vbs">URLFileDownloader.vbs</a>           | ✔       | Download List Of File URLs  |
 | <a href="https://github.com/KylerCondran/FunScripts/blob/master/FunScripts/VBSObfuscator.vbs">VBSObfuscator.vbs</a>               | ✔       | Obfuscate VBS Scripts       |
 | <a href="https://github.com/KylerCondran/FunScripts/blob/master/FunScripts/VBSToExe.vbs">VBSToExe.vbs</a>                    | ✔       | Deploy Executables          |
