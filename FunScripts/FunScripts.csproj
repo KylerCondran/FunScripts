@@ -42,6 +42,7 @@
     <Content Include="Metamorphic Code.vbs" />
     <Content Include="NetworkDriveBruteForcer.vbs" />
     <Content Include="Pi-10000-Digits.vbs" />
+    <Content Include="RightToLeft.vbs" />
     <Content Include="URLFileDownloader.vbs" />
     <Content Include="VBSObfuscator.vbs" />
     <Content Include="VBSToExe.vbs" />
