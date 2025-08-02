@@ -32,6 +32,7 @@ git clone https://github.com/KylerCondran/FunScripts.git
 | <a href="https://github.com/KylerCondran/FunScripts/blob/master/FunScripts/Certkrypt.De.ps1">Certkrypt.De.ps1</a>                | ✔       | File Decryptor              |
 | <a href="https://github.com/KylerCondran/FunScripts/blob/master/FunScripts/Certkrypt.En.ps1">Certkrypt.En.ps1</a>                | ✔       | File Encryptor              |
 | <a href="https://github.com/KylerCondran/FunScripts/blob/master/FunScripts/ConsoleVisualizer.ps1">ConsoleVisualizer.ps1</a>                | ✔       | Console Visualizer             |
+| <a href="https://github.com/KylerCondran/FunScripts/blob/master/FunScripts/DetectVM.ps1">DetectVM.ps1</a>                | ✔       | Detect Virtual Machine            |
 | <a href="https://github.com/KylerCondran/FunScripts/blob/master/FunScripts/Domain%20Generation%20Algorithm.ps1">Domain Generation Algorithm.ps1</a> | ✔       | Domain Generation Algorithm |
 | <a href="https://github.com/KylerCondran/FunScripts/blob/master/FunScripts/DriveInformation.vbs">DriveInformation.vbs</a>            | ✔       | Display Drive Info          |
 | <a href="https://github.com/KylerCondran/FunScripts/blob/master/FunScripts/EmailRaider.vbs">EmailRaider.vbs</a>                 | ✔       | Find Emails Recursively     |
