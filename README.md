@@ -50,6 +50,7 @@ git clone https://github.com/KylerCondran/FunScripts.git
 | <a href="https://github.com/KylerCondran/FunScripts/blob/master/FunScripts/PowerShellToExe.ps1">PowerShellToExe.ps1</a>             | ✔       | Deploy Executables          |
 | <a href="https://github.com/KylerCondran/FunScripts/blob/master/FunScripts/ProgrammaticTor.ps1">ProgrammaticTor.ps1</a>             | ✔       | Use Tor To Download Files   |
 | <a href="https://github.com/KylerCondran/FunScripts/blob/master/FunScripts/RightToLeft.vbs">RightToLeft.vbs</a>             | ✔       | Right-To-Left Override   |
+| <a href="https://github.com/KylerCondran/FunScripts/blob/master/FunScripts/SendNotification.ps1">SendNotification.ps1</a>             | ✔       | Send Windows Toast Notifications   |
 | <a href="https://github.com/KylerCondran/FunScripts/blob/master/FunScripts/URLFileDownloader.vbs">URLFileDownloader.vbs</a>           | ✔       | Download List Of File URLs  |
 | <a href="https://github.com/KylerCondran/FunScripts/blob/master/FunScripts/VBSObfuscator.vbs">VBSObfuscator.vbs</a>               | ✔       | Obfuscate VBS Scripts       |
 | <a href="https://github.com/KylerCondran/FunScripts/blob/master/FunScripts/VBSToExe.vbs">VBSToExe.vbs</a>                    | ✔       | Deploy Executables          |
@@ -62,4 +63,4 @@ See our contributing guide at [CONTRIBUTING.md](../master/CONTRIBUTING.md).
 ## Copyright and License
 >The [MIT License](https://github.com/KylerCondran/FunScripts/blob/master/LICENSE)
 >
->Copyright (c) 2024 Kyler Condran
+>Copyright (c) 2025 Kyler Condran
