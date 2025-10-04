@@ -51,6 +51,7 @@ git clone https://github.com/KylerCondran/FunScripts.git
 | <a href="https://github.com/KylerCondran/FunScripts/blob/master/FunScripts/ProgrammaticTor.ps1">ProgrammaticTor.ps1</a>             | ✔       | Use Tor To Download Files   |
 | <a href="https://github.com/KylerCondran/FunScripts/blob/master/FunScripts/RightToLeft.vbs">RightToLeft.vbs</a>             | ✔       | Right-To-Left Override   |
 | <a href="https://github.com/KylerCondran/FunScripts/blob/master/FunScripts/SendNotification.ps1">SendNotification.ps1</a>             | ✔       | Send Windows Toast Notifications   |
+| <a href="https://github.com/KylerCondran/FunScripts/blob/master/FunScripts/StockChecker.ps1">StockChecker.ps1</a>             | ✔       | Check Stock Prices Via API   |
 | <a href="https://github.com/KylerCondran/FunScripts/blob/master/FunScripts/URLFileDownloader.vbs">URLFileDownloader.vbs</a>           | ✔       | Download List Of File URLs  |
 | <a href="https://github.com/KylerCondran/FunScripts/blob/master/FunScripts/VBSObfuscator.vbs">VBSObfuscator.vbs</a>               | ✔       | Obfuscate VBS Scripts       |
 | <a href="https://github.com/KylerCondran/FunScripts/blob/master/FunScripts/VBSToExe.vbs">VBSToExe.vbs</a>                    | ✔       | Deploy Executables          |
