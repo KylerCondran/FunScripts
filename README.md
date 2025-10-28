@@ -25,14 +25,15 @@ git clone https://github.com/KylerCondran/FunScripts.git
 | <div align="left">Script</div>                          | <div align="left">Fun</div>      | <div align="left">Details</div>                     |
 |---------------------------------|----------|-----------------------------|
 | <a href="https://github.com/KylerCondran/FunScripts/blob/master/FunScripts/ADEnumerator.ps1">ADEnumerator.ps1</a>                        | ✔       | Enumerate AD Accounts        |
-| <a href="https://github.com/KylerCondran/FunScripts/blob/master/FunScripts/BSOD.vbs">BSOD.vbs</a>                        | ✔       | Blue Screen of Death        |
 | <a href="https://github.com/KylerCondran/FunScripts/blob/master/FunScripts/BadPath.vbs">BadPath.vbs</a>                     | ✔       | Illegal Folder Structure    |
 | <a href="https://github.com/KylerCondran/FunScripts/blob/master/FunScripts/Beep.ps1">Beep.ps1</a>                        | ✔       | Beeping Beeper              |
+| <a href="https://github.com/KylerCondran/FunScripts/blob/master/FunScripts/BSOD.vbs">BSOD.vbs</a>                        | ✔       | Blue Screen of Death        |
 | <a href="https://github.com/KylerCondran/FunScripts/blob/master/FunScripts/Caesar%20Cipher.vbs">Caesar Cipher.vbs</a>               | ✔       | Caesar Cipher               |
 | <a href="https://github.com/KylerCondran/FunScripts/blob/master/FunScripts/Certkrypt.De.ps1">Certkrypt.De.ps1</a>                | ✔       | File Decryptor              |
 | <a href="https://github.com/KylerCondran/FunScripts/blob/master/FunScripts/Certkrypt.En.ps1">Certkrypt.En.ps1</a>                | ✔       | File Encryptor              |
 | <a href="https://github.com/KylerCondran/FunScripts/blob/master/FunScripts/ConsoleVisualizer.ps1">ConsoleVisualizer.ps1</a>                | ✔       | Console Visualizer             |
 | <a href="https://github.com/KylerCondran/FunScripts/blob/master/FunScripts/DetectVM.ps1">DetectVM.ps1</a>                | ✔       | Detect Virtual Machine            |
+| <a href="https://github.com/KylerCondran/FunScripts/blob/master/FunScripts/DividendCounter.ps1">DividendCounter.ps1</a>                        | ✔       | Dividend Payment Counter        |
 | <a href="https://github.com/KylerCondran/FunScripts/blob/master/FunScripts/Domain%20Generation%20Algorithm.ps1">Domain Generation Algorithm.ps1</a> | ✔       | Domain Generation Algorithm |
 | <a href="https://github.com/KylerCondran/FunScripts/blob/master/FunScripts/DriveInformation.vbs">DriveInformation.vbs</a>            | ✔       | Display Drive Info          |
 | <a href="https://github.com/KylerCondran/FunScripts/blob/master/FunScripts/EmailRaider.vbs">EmailRaider.vbs</a>                 | ✔       | Find Emails Recursively     |

@@ -49,9 +49,13 @@
     <Content Include="YellowPagesScraper.vbs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="ADEnumerator.ps1" />
     <None Include="Beep.ps1" />
     <None Include="Certkrypt.De.ps1" />
     <None Include="Certkrypt.En.ps1" />
+    <None Include="ConsoleVisualizer.ps1" />
+    <None Include="DetectVM.ps1" />
+    <None Include="DividendCounter.ps1" />
     <None Include="Domain Generation Algorithm.ps1" />
     <None Include="ExportCert.ps1" />
     <None Include="FingerPrinter.ps1" />
